@@ -130,3 +130,114 @@ IPA 1949
 .center[
 ![:scale 35%](img/card-vowels.png)
 ]
+
+---
+
+layout: false
+layout: true
+
+## Articulatory vowel space
+
+---
+
+.center[
+![:scale 60%](img/alb-uti-vowels-gam.png)
+]
+
+Northern Tosk Albanian (Coretta et al 2022)
+
+---
+
+.center[
+![:scale 60%](img/pol-uti-vowels-gam.png)
+]
+
+Polish (Strycharczuk et al 2021)
+
+---
+
+Ladefoged's informal CV:
+
+> Daniel Jones himself published photographs of only four of his own cardinal vowels, although, as he told me in 1955, he had photographs of all 8 vowels. When I asked him why he had not published the other four photographs, he smiled and said **"People would have found them too confusing."**
+
+(<https://linguistics.ucla.edu/people/ladefoge/PLcareer.pdf>)
+
+--
+
+.center[
+<iframe src="https://giphy.com/embed/jivGITd768psP80B2i" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+]
+
+---
+
+layout: false
+layout: true
+
+## Acoustic vowel space
+
+---
+
+---
+
+layout: false
+layout: true
+
+## The gold standard
+
+---
+
+.center[
+![:scale 65%](img/ipa-vowels-1.png)
+]
+
+---
+
+.center[
+![:scale 65%](img/ipa-vowels-2.png)
+]
+
+---
+
+.center[
+![:scale 65%](img/within-vowel-disp.png)
+]
+
+---
+
+.center[
+![:scale 65%](img/between-vowel-disp.png)
+]
+
+---
+
+.center[
+![:scale 65%](img/mean-between-vowel-disp.png)
+]
+
+
+---
+
+layout: false
+layout: true
+
+## Lindsey's alternative
+
+---
+
+---
+
+layout: false
+layout: true
+
+## From the history of the IPA
+
+---
+
+---
+
+layout: false
+layout: true
+
+## Conclusions
+
+---
