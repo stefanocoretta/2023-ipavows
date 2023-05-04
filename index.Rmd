@@ -15,7 +15,7 @@ output:
       highlightLines: true
       countIncrementalSlides: false
       ratio: "16:9"
-      beforeInit: "../macros.js"
+      beforeInit: "macros.js"
 ---
 
 ```{r setup, include=FALSE}
@@ -177,6 +177,20 @@ layout: true
 
 ---
 
+.center[
+![:scale 60%](img/vspace.png)
+]
+
+Data from Becker-Kristal (2010).
+
+---
+
+.center[
+![:scale 60%](img/nvowels.png)
+]
+
+Data from Becker-Kristal (2010).
+
 ---
 
 layout: false
@@ -223,6 +237,12 @@ layout: true
 ## Lindsey's alternative
 
 ---
+
+.center[
+![](img/ipa_triangle.jpg)
+]
+
+From <https://www.englishspeechservices.com/blog/the-vowel-space/>.
 
 ---
 
