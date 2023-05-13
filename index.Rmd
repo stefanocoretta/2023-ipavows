@@ -43,21 +43,39 @@ library(xaringanthemer)
 style_mono_light(outfile = "xaringan-themer.css")
 ```
 
-class: center middle inverse
 
 ## DISCLAIMER
+
+- IPA vowel chart as a **descriptive tool**.
+
+- Collated research and ideas of others (especially Geoff Lidsey), plus a few bits of my own.
+
+- This is work in...cepient.
+
+- Constructive feedback welcome!
+
+---
+
+## OUTLINE
+
+- History of the IPA vowel chart.
+
+- ...
 
 ---
 
 layout: true
 
-## The vowel quadrilateral
+## The IPA vowel quadrilateral: A history
 
 ---
 
 .center[
-![:scale 60%](img/IPA_DejaVu_2020_V_1200.png)
+![:scale 50%](img/IPA_DejaVu_2020_V_1200.png)
 ]
+
+
+Official IPA vowel quadrilateral (IPA website)
 
 ---
 
@@ -65,31 +83,19 @@ layout: true
 ![](img/trapez-5-6.png)
 ]
 
-IPA 1949
+IPA 1949: The Principles of the IPA
 
 ---
 
-.center[
-![:scale 60%](img/trapez-1.png)
-]
+### *Principles of the IPA* (IPA 1949)
 
-IPA 1949
+**Phonemic nature** of the chart:
 
----
+- 3(c): In applying the alphabet to any particular language, regard should be had to two fundamental phonetic principles: the theory of "phonemes" and the theory of "cardinal sounds".
 
-.center[
-![:scale 60%](img/trapez-2.png)
-]
+- 20: When a vowel is situated in an area designated by a non-roman letter, it is recommended that the nearest appropriate roman letter be substituted for it.
 
-IPA 1949
-
----
-
-.center[
-![:scale 60%](img/trapez-3.png)
-]
-
-IPA 1949
+- 21: As sounds of the **ɒ** type have considerable acoustic similarity to those in the **ɔ** and **ɑ** areas, it is generally advisable to represent them by one of these more familiar symbols.
 
 ---
 
@@ -97,35 +103,23 @@ IPA 1949
 ![:scale 60%](img/trapez-4.png)
 ]
 
-IPA 1949
+IPA 1949: The Principles of the IPA
+
+---
+
+### *Report on the 1989 Kiel Convention* (IPA 1989)
+
+> "The use of symbols in representing the sounds of a particular language is usually guided by the principles of **phonological contrast**." [p 68]
+
+> "The relationship between vowels is described by plotting them on a quadrilateral, which represent an abstract, notional 'vowel space'. This vowel space has a correlation, though not an exact correspondence, with each of two aspects of the physical speech event of vowels: the **position of the tongue**; and the acoustic (and, relatedly, auditory) reflex of a vowel's production expressed as a **plotting of its resonant frequencies**." [p 72]
 
 ---
 
 .center[
-![](img/trapez-5-6.png)
+![:scale 60%](img/trapez-7.png)
 ]
 
-IPA 1949
-
----
-
-*Principles of the IPA* (IPA 1949):
-
-- 20: [I]t is recommended that the nearest appropriate roman letter be substituted for it.
-
-- 21: As sounds of the **ɒ** type have considerable acoustic similarity to those in the **ɔ** and **ɑ** areas, it is generally advisable to represent them by one of these more familiar symbols.
-
----
-
-*Report on the 1989 Kiel Convention* (IPA 1989)
-
-> The relationship between vowels is described by plotting them on a quadrilateral, which represent an abstract, notional 'vowel space'. This vowel space has a correlation, though not an exact correspondence, with each of two aspects of the physical speech event of vowels: the position of the tongue; and the acoustic (and, relatedly, auditory) reflex of a vowel's production expressed as a plotting of its resonant frequences.
-
---
-
-.center[
-![:scale 45%](img/trapez-7.png)
-]
+IPA 1949: Report on the 1989 Kiel Convention
 
 ---
 
@@ -135,9 +129,9 @@ IPA 1949
 
 ---
 
-*The Handbook of the IPA* (IPA 1999):
+### *The Handbook of the IPA* (IPA 1999):
 
-> The use of auditory spacing in the definition of these vowels means vowel description is not based purely on articulation, and is one reason why the vowel quadrilateral must be regarded as an abstraction and not a direct mapping of tongue position.
+> The use of auditory spacing in the definition of these vowels means vowel description is not based purely on articulation, and is one reason why the vowel quadrilateral must be regarded as an abstraction and **not a direct mapping of tongue position**.
 
 --
 
@@ -154,6 +148,26 @@ layout: true
 
 ---
 
+- From **Ladefoged**'s [informal CV](https://linguistics.ucla.edu/people/ladefoge/PLcareer.pdf>) (cited in Lindsey 2017):
+
+> "Daniel Jones himself published photographs of only four of his own cardinal vowels, although, as he told me in 1955, he had photographs of all 8 vowels. When I asked him why he had not published the other four photographs, he smiled and said **'People would have found them too confusing.'**"
+
+--
+
+- **Ashby 1989**: critique of Jones's quadrilateral.
+
+---
+
+- Not sure of the existence of work that directly address this empirical question.
+
+- Articulatory space should probably not be based on a single point from the midsagittal contour of the tongue (tongue is a 3D object and what about other articulators)?
+
+- Jim Scobbie is working on something related this.
+
+- For now, some preliminary data from Northern Tosk Albanian and Polish...
+
+---
+
 .center[
 ![:scale 60%](img/alb-uti-vowels-gam.png)
 ]
@@ -166,21 +180,7 @@ Northern Tosk Albanian (Coretta et al 2022)
 ![:scale 60%](img/pol-uti-vowels-gam.png)
 ]
 
-Polish (Strycharczuk et al 2021)
-
----
-
-Ladefoged's informal CV:
-
-> Daniel Jones himself published photographs of only four of his own cardinal vowels, although, as he told me in 1955, he had photographs of all 8 vowels. When I asked him why he had not published the other four photographs, he smiled and said **"People would have found them too confusing."**
-
-(<https://linguistics.ucla.edu/people/ladefoge/PLcareer.pdf>)
-
---
-
-.center[
-<iframe src="https://giphy.com/embed/jivGITd768psP80B2i" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-]
+Polish (Strycharczuk et al 2021). NOTE: < y > is /ɨ/.
 
 ---
 
@@ -191,11 +191,29 @@ layout: true
 
 ---
 
+### *Report on the 1989 Kiel Convention* (IPA 1989)
+
+> "The relationship between vowels is described by plotting them on a quadrilateral, which represent an abstract, notional 'vowel space'. This vowel space has a correlation, though not an exact correspondence, with each of two aspects of the physical speech event of vowels: the position of the tongue; and the acoustic (and, relatedly, auditory) reflex of a vowel's production expressed as a **plotting of its resonant frequencies**." [p 72]
+
+--
+
+<br>
+
+- Ideally, if we plot F1/F2 values from the world's languages, **shape** of the vowel space and **position** of the vowels in it should correlate with shape of and positions in the IPA vowel quadrilateral.
+
+- Data of F1/F2 **centroids of the vowels of 231 languages** (Becker-Kristal 2010). Work on the dispersion hypothesis of vowel inventories.
+
+---
+
 .center[
-![:scale 60%](img/vspace.png)
+![:scale 65%](img/vspace-z-dens.png)
 ]
 
-Data from Becker-Kristal (2010).
+---
+
+.center[
+![:scale 65%](img/vspace-vow-num.png)
+]
 
 ---
 
@@ -204,6 +222,49 @@ Data from Becker-Kristal (2010).
 ]
 
 Data from Becker-Kristal (2010).
+
+
+---
+
+layout: false
+layout: true
+
+## Lindsey's alternative
+
+---
+
+.center[
+![](img/ipa_triangle.jpg)
+]
+
+From <https://www.englishspeechservices.com/blog/the-vowel-space/> and Lindsey 2017.
+
+---
+
+layout: false
+layout: true
+
+## Conclusions
+
+---
+
+- IPA vowel chart as a descriptive tool:
+
+  - Position of the tongue and plotting of formants (albeit abstracted).
+
+- However:
+
+  - Articulation is much more complex (and studies are needed).
+  
+  - Acoustic F1/F2 space shape and position of vowels in it don't match the chart.
+
+- Lindsey's alternative vowel triangle is the best improvement we got so far.
+
+---
+
+class: center middle inverse
+
+## APPENDIX
 
 ---
 
@@ -242,50 +303,8 @@ layout: true
 ![:scale 65%](img/mean-between-vowel-disp.png)
 ]
 
-
 ---
 
-layout: false
-layout: true
+- Not sure of the existence of work that directly address this empirical question.
 
-## Lindsey's alternative
-
----
-
-.center[
-![](img/ipa_triangle.jpg)
-]
-
-From <https://www.englishspeechservices.com/blog/the-vowel-space/>.
-
----
-
-layout: false
-layout: true
-
-## From the history of the IPA
-
----
-
-- Göran Hammarström in 1973: critique of recordings and judgements.
-
-- Michael Ashby in 1989: critique of Jones's quadrilateral.
-
----
-
-layout: false
-layout: true
-
-## Conclusions
-
----
-
-- Reasons behind the IPA vowel quadrilateral shows that the initial articulatory + auditory criteria were abstracted over time.
-
-- Articulatory space is much more complex than what the chart suggests.
-
-- Acoustic space is not a trapezoid but a triangle.
-
-- History of the IPA there were critics of the trapezoid.
-
-- Lindsey's alternative vowel triangle is the best improvement we got so far.
+- Hammarström 1973: critique of recordings and judgements of phoneticians.
