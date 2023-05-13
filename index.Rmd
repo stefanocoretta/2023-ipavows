@@ -44,23 +44,31 @@ style_mono_light(outfile = "xaringan-themer.css")
 ```
 
 
-## DISCLAIMER
+## Introduction
 
-- IPA vowel chart as a **descriptive tool**.
+- IPA vowel chart as a **descriptive tool** (describe the sound systems of the world's languages).
 
-- Collated research and ideas of others (especially Geoff Lidsey), plus a few bits of my own.
+- Relevant to **descriptive and explanatory theory/frameworks**.
 
-- This is work in...cepient.
+- This work has in mind descriptive phoneticians especially.
 
-- Constructive feedback welcome!
+- I **collated research** and ideas of others (especially Geoff Lidsey), plus a few bits of my own.
+
+- This is **work in...cepient**. Constructive feedback welcome!
 
 ---
 
-## OUTLINE
+## Outline
 
 - History of the IPA vowel chart.
 
-- ...
+- Articulatory vowel space.
+
+- Acoustic vowel space.
+
+- Alternative chart (Lindsey's proposal).
+
+- Conclusion.
 
 ---
 
